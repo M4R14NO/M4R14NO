@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently finishing a dataset paper in the research area Spoken Language Understanding
+- 🌱 I’m currently learning new tools to define and automate business processes
+- 👯 I’m looking to collaborate on NLP
 <!--
 **M4R14NO/M4R14NO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
